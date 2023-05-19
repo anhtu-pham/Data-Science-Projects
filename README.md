@@ -2,7 +2,6 @@
 
 Members: Tu Pham, Minh Le, Duc Le\
 Programming Language: Julia
-
 ## Text data analysis
 Analyze the federalist papers.
 ## Numerical data analysis
