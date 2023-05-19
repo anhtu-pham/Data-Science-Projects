@@ -1,6 +1,6 @@
 # Papers Analysis and US Consumption Machine Learning Modelling
 
-### Authors: Tu Pham, Duc Le, Minh Le
+### Authors: Tu Pham, Minh Le, Duc Le
 ### Federal Papers Analysis Program
 The federalist papers include 85 essays, some of which do not have well-established authorship. This program's purpose is to analyze the federalist papers (collection of 85 essays) for the authorship of these essays.
 ### US Consumption Machine Learning Modelling Program
