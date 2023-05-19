@@ -2,7 +2,7 @@
 
 Members: Tu Pham, Minh Le, Duc Le\
 Programming Language: Julia
-### Text Data Analysis
+### Federal Papers Analysis
 Analyze the federalist papers.
-### Numerical Data Model
-Build linear regression model for the US consumption with machine learning approach.
+### Machine Learning Regression Model
+Build regression model for the US consumption with machine learning approach.
