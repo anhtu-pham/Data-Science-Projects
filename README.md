@@ -1,4 +1,4 @@
-# Papers Analysis and US Consumption Machine Learning Modelling Programs
+# Papers Analysis and US Consumption Machine Learning Modelling
 
 ### Authors: Tu Pham, Duc Le, Minh Le
 ### Federal Papers Analysis Program
