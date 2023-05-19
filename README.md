@@ -1,10 +1,10 @@
-# Data Analysis
+# Data Science Repository
 
 Members: Tu Pham, Minh Le, Duc Le\
 Programming Language: Julia
-## Text data analysis
+### Text data analysis
 Analyze the federalist papers.
-## Numerical data analysis
-Analyze the US consumption by using machine learning approach with linear regression model.
+### Numerical data model
+Build linear regression model for the US consumption with machine learning approach.
 Members: Tu Pham, Minh Le, Duc Le\
 Programming Language: Julia
