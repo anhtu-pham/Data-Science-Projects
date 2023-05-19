@@ -6,5 +6,3 @@ Programming Language: Julia
 Analyze the federalist papers.
 ### Numerical data model
 Build linear regression model for the US consumption with machine learning approach.
-Members: Tu Pham, Minh Le, Duc Le\
-Programming Language: Julia
